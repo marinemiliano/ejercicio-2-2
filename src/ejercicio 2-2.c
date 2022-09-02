@@ -102,6 +102,8 @@ int main(void)
 		fflush(stdin);
 		scanf("%c",&respuesta);
 
+		//otro resultado de prueba
+
 	}while(respuesta=='s');
 
 	printf("el minimo de los positivos es %d\n",minimoPos);
@@ -128,4 +130,6 @@ int main(void)
 	}
 
 	return 0;
+
+
 }
